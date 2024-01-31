@@ -1,8 +1,6 @@
 <h1>Hi, I'm Michael!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-  - [Active Directory Home Lab](https://github.com/mcgif21/ActiveDirectoryLab/tree/main)
   - [Incident Report Analysis](https://github.com/mcgif21/IncidentReport/tree/main)
   - [File Permissions In Linux](https://github.com/mcgif21/FilePermissions/tree/main)
   - [Controls and Compliance Checklist](https://github.com/mcgif21/ControlsCompliance/tree/main)
