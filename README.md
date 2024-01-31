@@ -10,7 +10,7 @@
   - [Incident Response Journal](https://github.com/mcgif21/IncidentResponse/tree/main)
     
 <h2>📃Certifications:</h2>
-<img src=""C:\Users\mcgif\Downloads\google-cybersecurity-certificate.png"">
+<img src="https://i.imgur.com/K71yaM2.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
  https://www.credly.com/badges/bb6ecdb7-5862-40b7-b2e8-b39af86fdfb1/public_url
 
 
