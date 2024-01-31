@@ -1,6 +1,7 @@
 <h1>Hi, I'm Michael!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
   - [Incident Report Analysis](https://github.com/mcgif21/IncidentReport/tree/main)
   - [File Permissions In Linux](https://github.com/mcgif21/FilePermissions/tree/main)
   - [Controls and Compliance Checklist](https://github.com/mcgif21/ControlsCompliance/tree/main)
