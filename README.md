@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/mcgif21/ActiveDirectoryLab/tree/main)
+  - [Incident Report Analysis](https://github.com/mcgif21/IncidentReport/tree/main)
 <h2>📃Certifications:</h2>
 
 <h2>📺 Popular YouTube Videos</h2>
