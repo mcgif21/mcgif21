@@ -8,11 +8,9 @@
   - [Applying Filters to SQL Queries](https://github.com/mcgif21/SQLqueries/tree/main)
   - [Vulnerability Assessment Report](https://github.com/mcgif21/VulnerabilityAssessment/tree/main)
   - [Incident Response Journal](https://github.com/mcgif21/IncidentResponse/tree/main)
+  - 
 <h2>📃Certifications:</h2>
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bb6ecdb7-5862-40b7-b2e8-b39af86fdfb1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 <h2> 🤳 Connect with me:</h2>
