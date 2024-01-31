@@ -8,6 +8,7 @@
   - [Controls and Compliance Checklist](https://github.com/mcgif21/ControlsCompliance/tree/main)
   - [Applying Filters to SQL Queries](https://github.com/mcgif21/SQLqueries/tree/main)
   - [Vulnerability Assessment Report](https://github.com/mcgif21/VulnerabilityAssessment/tree/main)
+  - [Incident Response Journal](https://github.com/mcgif21/IncidentResponse/tree/main)
 <h2>📃Certifications:</h2>
 
 <h2>📺 Popular YouTube Videos</h2>
