@@ -4,6 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/mcgif21/ActiveDirectoryLab/tree/main)
   - [Incident Report Analysis](https://github.com/mcgif21/IncidentReport/tree/main)
+  - [File Permissions In Linux](https://github.com/mcgif21/FilePermissions)
 <h2>📃Certifications:</h2>
 
 <h2>📺 Popular YouTube Videos</h2>
